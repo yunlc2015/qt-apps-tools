@@ -1,9 +1,14 @@
-## QT-Awesome
+## QT-Apps/Tools
 收集 Qt5/Qt6 优秀应用程序、工具。
 
 ### 编辑器   
 
 各类文本、代码、HTML、图片、节点流等的可视化编辑器。   
+
+* md-editor   
+Lightweight, native WYSIWYG Markdown editor (Qt6/C++, no Electron): TeX formulas, Mermaid/PlantUML diagrams, tabs, spell check, export to PDF/HTML/LaTeX/ODT/DOCX/EPUB, and UI in 9 languages.   
+<img src="images/markdown.png" style="max-width:800px">   
+https://github.com/ManuelAriasCalleja/Markdown-editor
 
 * QtNodes   
 Qt Node Editor. Dataflow programming framework   
@@ -70,6 +75,11 @@ Add Font Awesome icons to your Qt application. Other icon sets are supported, to
 <img src="images/qsimpleupdater.png" style="max-width:800px" border="1">   
 https://github.com/alex-spataru/QSimpleUpdater
 
+* Qtilities   
+Qtilities is a set of well documented and mature Qt C++ libraries which provides building blocks for Qt applications, allowing rapid application development.  
+<img src="images/qtilitles.jpg" style="max-width:800px" border="1">   
+https://jpnaude.github.io/Qtilities/   
+
 * mupdf-qt   
 Qt wrapper for the MuPDF PDF viewer.   
 https://xiangxw.github.io/mupdf-qt
@@ -78,7 +88,11 @@ https://xiangxw.github.io/mupdf-qt
 Use Lua as a scripting language for Qt-based software.   
 http://www.nongnu.org/libqtlua
 
-* Qtilities   
-Qtilities is a set of well documented and mature Qt C++ libraries which provides building blocks for Qt applications, allowing rapid application development.  
-<img src="images/qtilitles.jpg" style="max-width:800px" border="1">   
-https://jpnaude.github.io/Qtilities/
+* libqgit2   
+Qt wrapper library around the libgit2 git access library   
+https://github.com/KDE/libqgit2   
+
+* QtScrcpy
+Android real-time display control software.
+<img src="images/qtscrcpy.png" style="max-width:800px" border="1">   
+https://github.com/barry-ran/QtScrcpy
