@@ -45,6 +45,13 @@ Binary Editor for Qt
 https://github.com/Simsys/qhexedit2
 
 
+### AI相关
+* gImageReader
+gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.   
+<img src="images/gimagereader.jpg" style="max-width:800px">   
+https://github.com/manisandro/gImageReader
+
+
 ### 多媒体应用
 * VLC-Qt
 Wrapper for libvlc that lets you add a VLC-like media player to your application.   
