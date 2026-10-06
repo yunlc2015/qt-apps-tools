@@ -1,8 +1,21 @@
 ## QT-Apps/Tools
 收集 Qt5/Qt6 优秀应用程序、工具。
 
-### 编辑器   
+### AI相关
+* DeepVein
+DeepVein 是一款基于 C++ 和 Qt6 构建的高性能、全本地化 RAG（检索增强生成）桌面大模型助手。
+https://github.com/peiyv86/DeepVein
 
+* CppLocalRAG
+基于 C++17 开发的全离线智能知识库系统。自研混合检索引擎，集成 ONNX Runtime 与 llama.cpp 实现本地语义搜索与轻量化 RAG 问答。
+https://github.com/olordinary/CppLocalRAG
+
+* gImageReader
+gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.   
+<img src="images/gimagereader.jpg" style="max-width:800px">   
+https://github.com/manisandro/gImageReader
+
+### 编辑器   
 各类文本、代码、HTML、图片、节点流等的可视化编辑器。   
 
 * md-editor   
@@ -44,13 +57,24 @@ Binary Editor for Qt
 <img src="images/qhexedit2.png" style="max-width:800px">   
 https://github.com/Simsys/qhexedit2
 
+* QScintilla
+A Qt port of the Scintilla editing component
+https://github.com/opencor/qscintilla
 
-### AI相关
-* gImageReader
-gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.   
-<img src="images/gimagereader.jpg" style="max-width:800px">   
-https://github.com/manisandro/gImageReader
+### 内容管理
+* obsidian-cpp
+A native C++23 / Qt 6 clone of Obsidian, the Markdown knowledge base (unofficial)
+https://github.com/Danishk2445/obsidian-cpp
 
+* Lexicon
+Lexicon is a knowledge dictionary for structured learning and technical note-taking
+<img src="images/lexicon.png" style="max-width:800px" border="1">
+https://github.com/robertvokac/lexicon
+
+* Corbomite
+A native Obsidian-compatible knowledge base application built with C++20, Qt6, and KDE Frameworks 6. 
+<img src="images/corbomite.png" style="max-width:800px" border="1">
+https://github.com/clintonthegeek/Corbomite
 
 ### 多媒体应用
 * VLC-Qt
@@ -77,6 +101,11 @@ https://github.com/happytunesai/MidiEditor_AI
 Add Font Awesome icons to your Qt application. Other icon sets are supported, too.
 
 ### 其他   
+* JKQTPlotter
+This is an extensive C++ library for data visualization, plotting and charting for Qt
+<img src="images/jkqtplotter.png" style="max-width:800px" border="1">
+https://github.com/jkriege2/JKQtPlotter
+
 * QSimpleUpdater   
 一个Qt应用程序自动更新库。   
 <img src="images/qsimpleupdater.png" style="max-width:800px" border="1">   
